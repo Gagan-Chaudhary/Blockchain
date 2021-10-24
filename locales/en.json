@@ -1,0 +1,9 @@
+{
+	"Blockchain": "Blockchain",
+	"Block": "Block",
+	"Nonce": "Nonce",
+	"Data": "Data",
+	"Prev": "Prev",
+	"Hash": "Hash",
+	"Mine": "Mine"
+}
